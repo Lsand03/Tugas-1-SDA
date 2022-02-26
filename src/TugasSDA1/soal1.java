@@ -5,8 +5,7 @@ public class soal1 {
        
         String[] nama= {"A","N","D","A"};
         //Soal no 1
-        //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini:
-        //isEmty()
+        //Tentukan hasil yang didapatkan ketika dilakukan perintah isEmpty()
 
         System.out.println(nama[0].isEmpty());     
         System.out.println(nama[1].isEmpty());     
