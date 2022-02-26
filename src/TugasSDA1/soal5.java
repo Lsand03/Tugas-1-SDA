@@ -16,8 +16,7 @@ public class soal5 {
     }
 
     //Soal no 5
-    //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini:
-    //remove(0), remove(3), remove(2)
+    //Tentukan hasil yang didapatkan ketika dilakukan perintah remove(0), remove(3), remove(2)
 
     nama.remove(0);
     //nama.remove(3);
