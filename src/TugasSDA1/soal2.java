@@ -5,8 +5,7 @@ public class soal2 {
         
     String[] nama = {"N","D","R","A"};
     //Soal no 2
-    //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini:
-    //size()
+    //Tentukan hasil yang didapatkan ketika dilakukan perintah size()
     System.out.println("ukuran array adalah " + nama.length );
     }    
 }
