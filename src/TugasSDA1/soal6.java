@@ -10,8 +10,7 @@ public class soal6 {
     nama.add("A");
     
     //Soal no 6
-    //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini:
-    //add(0,e), add(2,f), add(3,g), add(4,h), add(6,h), add(-3,j)
+    //Tentukan hasil yang didapatkan ketika dilakukan perintah add(0,e), add(2,f), add(3,g), add(4,h), add(6,h), add(-3,j)
 
     nama.add(0,"e");
     System.out.println("Array setelah fungsi add(0,e) " + nama);
