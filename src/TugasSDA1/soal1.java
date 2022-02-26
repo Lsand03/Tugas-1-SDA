@@ -3,7 +3,7 @@ package TugasSDA1;
 public class soal1 {
     public static void main(String[] args) {
        
-        String[] nama= {"","N","D","A"};
+        String[] nama= {"A","N","D","A"};
         //Soal no 1
         //Tentukan hasil yang didapatkan ketika dilakukan perintah berikut ini:
         //isEmty()
